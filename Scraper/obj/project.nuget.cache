@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CuovdSIjY4aMe2B8M2pLyetslWMUzYdajtU9ol4yMSTE4bZ2dLkTKuAezdXudmn3Nw7K9RtVK7U4ndV8Ze9skA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Scraper\\Scraper\\Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
